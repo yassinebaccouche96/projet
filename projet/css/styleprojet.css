@@ -1,0 +1,39 @@
+body{
+    padding-bottom: 250px; 
+    background-color: brown
+}
+.heading{
+    width:645px;
+height:500px;
+}
+.con{
+    width:645px;
+    height:500px;
+}
+.tout1{
+    padding-block-start:10px
+}
+.social i {
+    padding: 3px;
+    color:rgb(42, 101, 228);
+}
+.social i:hover {
+    color: rgb(43, 70, 128);
+    cursor: pointer;
+}
+
+.login{
+    background:rgb(66, 37, 94);
+    color:rgb(145, 145, 212);
+    line-height:1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:1em;
+    max-width:1170px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:1em;
+  } 
+
+
+  
+  
